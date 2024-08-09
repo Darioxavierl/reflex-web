@@ -9,5 +9,5 @@ def header() -> rx.Component:
         ),
         rx.text("@darioxavierpl"),
         rx.text("Hola soy Dario"),
-        rx.text("Estudiante de ingeniria en Telecomunicaciones")
+        rx.text("Estudiante de ingenieria en Telecomunicaciones")
     )
